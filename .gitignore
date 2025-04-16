@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build directories
+build/
+dist/
+.next/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Editor backup files
+*.swp
+*.sublime-workspace
+*.sublime-project
